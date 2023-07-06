@@ -2,19 +2,17 @@
 
 ![Image](https://cdn.dribbble.com/userupload/6958364/file/original-9ca93c2dd96a84d5364670135de826d4.png?resize=2048x1536)
 
-## Get Started
+## Please consider following me:
 
-install dev dependencies
 
-### `npm install` or `yarn install`
+[![website](./img/github_light.svg)](https://www.linkedin.com/in/devero1394/#gh-light-mode-only)
+[![website](./img/github_dark.svg)](https://www.linkedin.com/in/devero1394/#gh-dark-mode-only) [**Github**](https://github.com/deividcool)
 
-## Then
 
-go to https://www.weatherapi.com . create an account and get the api key then use that api key in constants/index.js file
+[![website](./img/linkedin_light.svg)](https://www.linkedin.com/in/devero1394/#gh-light-mode-only)
+[![website](./img/linkedin_dark.svg)](https://www.linkedin.com/in/devero1394/#gh-dark-mode-only) [**linkedin**](https://www.linkedin.com/in/devero1394)
 
-## Then
 
-Run The app
-
-### `expo start` or `npm start`
+[![website](./img/instagram_light.svg)](https://www.instagram.com/devero_1394/#gh-light-mode-only)
+[![website](./img/instagram_dark.svg)](https://www.instagram.com/devero_1394/#gh-dark-mode-only) [**Instagram**](https://www.instagram.com/devero_1394)
 
