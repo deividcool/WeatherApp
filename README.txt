@@ -1,2 +1,0 @@
-
-application to measure time
